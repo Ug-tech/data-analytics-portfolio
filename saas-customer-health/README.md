@@ -15,6 +15,10 @@ The dashboard helps SaaS product teams, CFOs, and customer success managers visu
 - Columns include: `Month`, `Churn Rate`, `Net Retention`, `MRR`, `ARR`, `Active Customers`, `New Customers`
 - Created in Excel based on SaaS industry benchmark patterns
 
+## 📂 Project Files
+- [📈 Dashboard Screenshot](../assets/saas_dashboard.png)
+- [📊 Excel Data Model](./saas_b2b_financial_model (1).xlsx)
+
 ## 📈 Dashboard Features
 - **Monthly Recurring Revenue (MRR)** Line Chart
 - **Annual Recurring Revenue (ARR)** Projection Area Chart
