@@ -45,13 +45,13 @@ This project demonstrates a SaaS analytics approach useful for:
 - Customer success tracking
 - Strategic retention decisions
 
-## 🔗 Power BI Report Link (if hosted)
+## 🔗 Power BI Report Link
 [🔗 View the Report (Coming Soon)](#)
 
 ---
 
-📫 **Author**: [Your Name]  
+📫 **Author**: Great Ukachukwu 
 📍 **Location**: Nigeria  
-📬 **Contact**: [LinkedIn] | [Email]  
+📬 **Contact**: www.linkedin.com/in/great-ukachukwu-861b18192 | greatukachukwu@gmail.com 
 🎓 **Note**: Built as a portfolio project using simulated data.
 
