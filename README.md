@@ -9,4 +9,4 @@ Welcome! This portfolio contains end-to-end projects using Power BI, SQL, and Ex
 ---
 
 📌 Tools: Power BI, DAX, SQL, Excel  
-📫 Contact: [greatukachukwu@gmail.com]
+📫 Contact: greatukachukwu@gmail.com
