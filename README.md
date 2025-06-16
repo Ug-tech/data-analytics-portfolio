@@ -5,7 +5,7 @@ Welcome! This portfolio contains end-to-end projects using Power BI, SQL, and Ex
 ## 🔹 Projects
 
 - [💻 SaaS Revenue & Customer Health](./saas-customer-health/README.md)
-[🏥 Hospital Patient Analytics Dashboard](./hospital-patient-analytics/README.md)
+- [🏥 Hospital Patient Analytics Dashboard](./hospital-patient-analytics/README.md)
 ---
 
 📌 Tools: Power BI, DAX, SQL, Excel  
