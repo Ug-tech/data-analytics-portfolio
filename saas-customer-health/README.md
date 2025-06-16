@@ -16,8 +16,9 @@ The dashboard helps SaaS product teams, CFOs, and customer success managers visu
 - Created in Excel based on SaaS industry benchmark patterns
 
 ## 📂 Project Files
+
 - [📈 Dashboard Screenshot](../assets/saas_dashboard.png)
-- [📊 Excel Data Model](./SaaS B2b Financial Model (1).xlsx)
+- [📊 Excel Data Model](./saas_b2b_financial_model.xlsx)
 
 ## 📈 Dashboard Features
 - **Monthly Recurring Revenue (MRR)** Line Chart
